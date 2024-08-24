@@ -1,2 +1,2 @@
 # Serendipity
-Fighting Game
+Fighting Game (certified)

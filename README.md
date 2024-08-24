@@ -1,2 +1,2 @@
 # Serendipity
-Fighting Game
+Serendipity Fighting Game
